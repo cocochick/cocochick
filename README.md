@@ -3,7 +3,7 @@
 -->
 
 - 🌱 I’m currently learning c++
-- ✨ Working on Cross Platform
+- ✨ Working on Arch and Optimization of Cross Platform
 - 📫 How to reach me: jiyishen217@gmail.com
 
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=cocochick&show_icons=true&theme=radical)
